@@ -14,15 +14,6 @@
 
   ---
 
-  ### 🐍 LIVE CONTRIBUTION SNAKE GRAPH
-
-  <!-- Instant Animated Contribution Graph -->
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=lalithmurugan57-del&theme=react-dark&hide_border=true&area=true" width="95%" alt="Activity Graph" />
-  </p>
-
-  ---
-
   ### 🛠️ TECH STACK & SKILLS
 
   #### 💻 Languages
@@ -51,15 +42,11 @@
 
   ---
 
-  ### 📈 LIVE PERFORMANCE METRICS
+  ### 📈 GITHUB METRICS & OVERVIEW
 
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=lalithmurugan57-del&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lalithmurugan57-del&theme=tokyonight&hide_border=true" width="48%" />
-  </p>
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalithmurugan57-del&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalithmurugan57-del&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
   </p>
 
 </div>
