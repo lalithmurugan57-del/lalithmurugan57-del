@@ -1,34 +1,57 @@
 <div align="center">
 
-  <!-- Animated Typing Header -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hey+there!+%F0%9F%91%8B+I'm+Lalithadithya;Cloud+%26+DevOps+Enthusiast+%E2%98%81%EF%B8%8F;Full+Stack+Developer+%F0%9F%92%BB;Building+Scalable+%26+Cool+Apps...!" alt="Typing SVG" />
+  <!-- Dynamic Typing Header Animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=Hey+there!+%F0%9F%91%8B+I'm+Lalithadithya;Cloud+%26+DevOps+Enthusiast+%E2%98%81%EF%B8%8F;Full+Stack+Developer+%26+UI%2FUX+Designer;Building+Scalable+Modern+Web+Apps...!" alt="Typing SVG" />
 
   <p align="center">
-    <b>Second Year B.Tech IT Student @ KGiSL | Passionate about Cloud, DevOps & Modern Web Tech</b>
+    🚀 <b>Second Year B.Tech IT Student @ KGiSL</b> | Passionate about Cloud Infrastructure, DevOps & Full Stack Development
   </p>
 
-  <!-- Animated Visitor Counter -->
+  <!-- Animated Live Profile Views -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=lalithmurugan57-del&label=Profile%20Views&color=0e75a7&style=flat-square" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=lalithmurugan57-del&label=Profile%20Views&color=00F0FF&style=for-the-badge" alt="Profile Views" />
   </p>
 
   ---
 
-  ### 🛠 Tech Stack & Tools
+  ### 📊 Live 3D Contribution Graph
 
+  <!-- 3D Isometric Animated Contribution Graph -->
   <p align="center">
-    <img src="https://img.shields.io/badge/Linux_Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+    <img src="https://github-readme-3d-contrib.herokuapp.com/s/lalithmurugan57-del?theme=cyberpunk" alt="3D Contribution Graph" width="90%" />
+  </p>
+
+  ---
+
+  ### 🛠 Tech Stack & Skills
+
+  <b>Languages & Core</b>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  </p>
+
+  <b>Frontend & Design</b>
+  <p>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/UI%2FUX_Design-FF61F6?style=for-the-badge&logo=figma&logoColor=white" />
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  </p>
+
+  <b>Backend & Infrastructure</b>
+  <p>
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+    <img src="https://img.shields.io/badge/Linux_Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   </p>
 
   ---
 
-  ### 📊 GitHub Stats & Activity
+  ### 📈 GitHub Live Metrics & Stats
 
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=lalithmurugan57-del&show_icons=true&theme=cyberpunk&hide_border=true&count_private=true" width="48%" />
