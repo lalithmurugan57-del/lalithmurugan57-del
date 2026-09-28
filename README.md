@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Typing SVG Header -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=Hey+there!+%F0%9F%91%8B+I'm+Lalithadithya;Cloud+%26+DevOps+Enthusiast+%E2%98%81%EF%B8%8F;Full+Stack+Developer+%26+UI%2FUX+Designer;Building+Scalable+Modern+Web+Apps...!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=Hey+there!+%F0%9F%91%8B+I'm+Lalithadithya;Cloud+%26+DevOps+Enthusiast+%E2%98%81%EF%B8%8F;%26+UI%2FUX+Designer;Building+Scalable+Modern+Web+Apps...!" alt="Typing SVG" />
 
   <p align="center">
     🚀 <b>Second Year B.Tech IT Student @ KGiSL</b> | Passionate about Cloud Infrastructure, DevOps & Full Stack Web Development
