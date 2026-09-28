@@ -1,15 +1,22 @@
 <div align="center">
 
-  <!-- Typing SVG Header -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=Hey+there!+%F0%9F%91%8B+I'm+Lalithadithya;Cloud+%26+DevOps+Enthusiast+%E2%98%81%EF%B8%8F;%26+UI%2FUX+Designer;Building+Scalable+Modern+Web+Apps...!" alt="Typing SVG" />
+  <!-- Header Banner / Title -->
+  <h1>👋 Hey, I'm Lalithadithya M</h1>
+  <p>🚀 <b>Second Year B.Tech IT Student @ KGiSL</b> | Cloud & DevOps Enthusiast | Full Stack Web Developer</p>
 
-  <p align="center">
-    🚀 <b>Second Year B.Tech IT Student @ KGiSL</b> | Passionate about Cloud Infrastructure, DevOps & Full Stack Web Development
-  </p>
-
-  <!-- Profile Views Badge -->
+  <!-- Live Profile Views -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=lalithmurugan57-del&label=PROFILE%20VIEWS&color=00F0FF&style=for-the-badge" alt="Profile Views" />
+  </p>
+
+  ---
+
+  ### 📊 MY GITHUB STATS
+
+  <!-- Working Stats Cards (Theme: TokyoNight) -->
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=lalithmurugan57-del&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalithmurugan57-del&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
   </p>
 
   ---
@@ -39,17 +46,5 @@
     <img src="https://img.shields.io/badge/Linux_Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   </p>
-
-  ---
-
-  ### ⚡ QUICK HIGHLIGHTS
-  
-  <table align="center">
-    <tr>
-      <td align="center" width="33%"><b>🎓 Education</b><br/>B.Tech IT @ KGiSL</td>
-      <td align="center" width="33%"><b>☁️ Focus Area</b><br/>Cloud & DevOps</td>
-      <td align="center" width="33%"><b>⚡ OS Environment</b><br/>Linux Ubuntu</td>
-    </tr>
-  </table>
 
 </div>
