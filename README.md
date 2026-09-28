@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- Animated Neon Typing Header -->
+  <!-- Typing SVG Header -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=Hey+there!+%F0%9F%91%8B+I'm+Lalithadithya;Cloud+%26+DevOps+Enthusiast+%E2%98%81%EF%B8%8F;Full+Stack+Developer+%26+UI%2FUX+Designer;Building+Scalable+Modern+Web+Apps...!" alt="Typing SVG" />
 
   <p align="center">
@@ -10,15 +10,6 @@
   <!-- Profile Views Badge -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=lalithmurugan57-del&label=PROFILE%20VIEWS&color=00F0FF&style=for-the-badge" alt="Profile Views" />
-  </p>
-
-  ---
-
-  ### 🐍 LIVE CONTRIBUTION SNAKE GRAPH
-
-  <!-- Auto Generated Snake Animation Map -->
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/lalithmurugan57-del/lalithmurugan57-del/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Graph" width="100%" />
   </p>
 
   ---
