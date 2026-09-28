@@ -14,9 +14,9 @@
 
   ---
 
-  ### 📊 Live 3D Contribution Graph
+  ### 📊 Live 3D Animated Contribution Graph
 
-  <!-- 3D Isometric Animated Contribution Graph -->
+  <!-- 3D Isometric Live Animated Contribution Graph -->
   <p align="center">
     <img src="https://github-readme-3d-contrib.herokuapp.com/s/lalithmurugan57-del?theme=cyberpunk" alt="3D Contribution Graph" width="90%" />
   </p>
@@ -25,7 +25,7 @@
 
   ### 🛠 Tech Stack & Skills
 
-  <b>Languages & Core</b>
+  <b>Programming Languages</b>
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -33,7 +33,7 @@
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
   </p>
 
-  <b>Frontend & Design</b>
+  <b>Frontend & UI/UX Design</b>
   <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -41,7 +41,7 @@
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   </p>
 
-  <b>Backend & Infrastructure</b>
+  <b>Backend & DevOps / Tools</b>
   <p>
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -51,7 +51,7 @@
 
   ---
 
-  ### 📈 GitHub Live Metrics & Stats
+  ### 📈 GitHub Live Metrics & Cyberpunk Stats
 
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=lalithmurugan57-del&show_icons=true&theme=cyberpunk&hide_border=true&count_private=true" width="48%" />
