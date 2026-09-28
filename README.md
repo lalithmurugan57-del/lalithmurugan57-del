@@ -7,9 +7,18 @@
     🚀 <b>Second Year B.Tech IT Student @ KGiSL</b> | Passionate about Cloud Infrastructure, DevOps & Full Stack Web Development
   </p>
 
-  <!-- Live Profile Views Badge -->
+  <!-- Profile Views Badge -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=lalithmurugan57-del&label=PROFILE%20VIEWS&color=00F0FF&style=for-the-badge" alt="Profile Views" />
+  </p>
+
+  ---
+
+  ### 🐍 LIVE CONTRIBUTION SNAKE GRAPH
+
+  <!-- Auto Generated Snake Animation Map -->
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/lalithmurugan57-del/lalithmurugan57-del/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Graph" width="100%" />
   </p>
 
   ---
@@ -25,7 +34,7 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   </p>
 
-  #### 🎨 Frontend & UI/UX
+  #### 🎨 Frontend & UI/UX Design
   <p>
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
@@ -42,11 +51,14 @@
 
   ---
 
-  ### 📈 GITHUB METRICS & OVERVIEW
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=lalithmurugan57-del&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalithmurugan57-del&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-  </p>
+  ### ⚡ QUICK HIGHLIGHTS
+  
+  <table align="center">
+    <tr>
+      <td align="center" width="33%"><b>🎓 Education</b><br/>B.Tech IT @ KGiSL</td>
+      <td align="center" width="33%"><b>☁️ Focus Area</b><br/>Cloud & DevOps</td>
+      <td align="center" width="33%"><b>⚡ OS Environment</b><br/>Linux Ubuntu</td>
+    </tr>
+  </table>
 
 </div>
